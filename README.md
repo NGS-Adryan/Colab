@@ -9,7 +9,8 @@
    * https://raw.githubusercontent.com/alura-cursos/formacao-data-science/master/movies.csv
 
 4. Abrir ler e escrever numa google sheets
-/*como faço pra abrir uma google sheets com o google colab ler e escrever algum dado*/
+
+   * *como faço pra abrir uma google sheets com o google colab ler e escrever algum dado*
 
 5. Descobrir um endereço utilizando uma Coordenada e um CEP
 	
