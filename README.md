@@ -1,13 +1,12 @@
 # Aula de python 1 utilizando o Colab
 
-1. Descobrir o preço do de uma ação no google finance em tempo real utilizando o bs4 e requests := 
-
-https://colab.research.google.com/drive/1Q1O43cZU-LhApAzln9SpnmAP4ssWA5l0?usp=sharing
+1. Descobrir o preço do de uma ação no google finance em tempo real utilizando o bs4 e requests
+   * https://colab.research.google.com/drive/1Q1O43cZU-LhApAzln9SpnmAP4ssWA5l0?usp=sharing
 
 2. transformando em um dataframe do pandas 
 
-3. ler um csv :=
-https://raw.githubusercontent.com/alura-cursos/formacao-data-science/master/movies.csv
+3. ler um csv
+   * https://raw.githubusercontent.com/alura-cursos/formacao-data-science/master/movies.csv
 
 4. Abrir ler e escrever numa google sheets
 /*como faço pra abrir uma google sheets com o google colab ler e escrever algum dado*/
